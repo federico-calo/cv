@@ -4,14 +4,14 @@
   var VALID_LANGS = ['fr', 'en', 'es'];
 
   var DESCRIPTIONS = {
-    fr: "Federico Calo — Architecte développeur web à Paris. Plus de 15 ans d'expérience en Drupal, Symfony, PHP et JavaScript. Conception, développement et maintenance de plateformes web complexes.",
-    en: 'Federico Calo — Web Architect & Developer in Paris. 15+ years experience in Drupal, Symfony, PHP and JavaScript. Design, development and maintenance of complex web platforms.',
-    es: 'Federico Calo — Arquitecto desarrollador web en París. Más de 15 años de experiencia en Drupal, Symfony, PHP y JavaScript. Diseño, desarrollo y mantenimiento de plataformas web complejas.'
+    fr: "Federico Calo, concepteur développeur web et mobile à Paris. Plus de 15 ans d'expérience sur Drupal et PHP. Conception, développement et maintenance de plateformes web complexes, développement assisté par IA.",
+    en: 'Federico Calo, web and mobile developer in Paris. More than 15 years of experience in Drupal and PHP. Design, development and maintenance of complex web platforms, AI-assisted development.',
+    es: 'Federico Calo, desarrollador web y móvil en París. Más de 15 años de experiencia en Drupal y PHP. Diseño, desarrollo y mantenimiento de plataformas web complejas, desarrollo asistido por IA.'
   };
   var TITLES = {
-    fr: 'Federico Calo - Architecte Développeur Web | Drupal, Symfony, PHP — Paris',
-    en: 'Federico Calo - Web Architect & Developer | Drupal, Symfony, PHP — Paris',
-    es: 'Federico Calo - Arquitecto Desarrollador Web | Drupal, Symfony, PHP — París'
+    fr: 'Federico Calo - Concepteur développeur web et mobile | Drupal, PHP | Paris',
+    en: 'Federico Calo - Web & Mobile Developer | Drupal, PHP | Paris',
+    es: 'Federico Calo - Desarrollador web y móvil | Drupal, PHP | París'
   };
   var NAV_LABELS = {
     fr: 'Ouvrir le menu de navigation',
